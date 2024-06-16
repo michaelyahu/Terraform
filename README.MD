@@ -8,7 +8,7 @@
 * VPC Creation:  
   ```python 
   
-   Creates a Virtual Private Cloud (VPC) named VPC_Production with a CIDR block of 10.0.0.0/16.
+   Creates a Virtual Private Cloud (VPC) named VPC_Production with a CIDR block of 10.10.0.0/16.
 
 * Availability Zone:  
     ```python
