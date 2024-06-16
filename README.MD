@@ -13,7 +13,7 @@
 * Availability Zone:  
     ```python
      
-    The infrastructure will only be built in one single Availability zone 'eu-west-2a'.
+    The infrastructure will only be built in one single Availability zone 'us-east-1'.
 
 * Subnets Creation:  
     ```python
